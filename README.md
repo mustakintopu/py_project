@@ -23,8 +23,8 @@ Uses the OpenWeatherMap API
 ##🚀 How to Run
 1. Clone the repo :
    ```
-   git clone https://github.com/mustakintopu/weather-app.git
-   cd weather-app
+   git clone https://github.com/mustakintopu/py_project.git
+   cd py_project
    ```
 
 3. Install required packages
