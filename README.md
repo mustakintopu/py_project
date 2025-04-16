@@ -42,7 +42,7 @@ self.api_key = 'YOUR_API_KEY'
 
 4. Run the app:
    ```
-   python weather_app.py
+   python weather/main.py
    ```
 
 
